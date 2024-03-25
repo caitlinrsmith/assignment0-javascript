@@ -13,11 +13,11 @@
 // console.log(Boolean('LaunchCode'));
 // console.log(4 == "4");
 
-let num = 7;
+// let num = 7;
 
-if (num % 2 === 0) {
-    if (num % 2 === 1) {
-        console.log("odd");
-    }
-}
+// if (num % 2 === 0) {
+//     if (num % 2 === 1) {
+//         console.log("odd");
+//     }
+// }
 console.log("Hello world!");

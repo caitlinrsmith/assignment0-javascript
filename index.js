@@ -1,5 +1,6 @@
-const hello = require('./hello');
-
-
-console.log("Hello World!");
-  
+function hello() {
+	// TODO: change this string so that your program prints "Hello world!" 
+	return "Hello world!";
+}
+ 
+module.exports = hello;
