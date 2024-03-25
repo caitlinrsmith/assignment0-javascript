@@ -20,4 +20,4 @@ if (num % 2 === 0) {
         console.log("odd");
     }
 }
-console.log("Hello World!");
+console.log("Hello world!");
